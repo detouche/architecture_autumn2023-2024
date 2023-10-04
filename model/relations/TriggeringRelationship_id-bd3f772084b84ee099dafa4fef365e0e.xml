@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Домен верный"
+    id="id-bd3f772084b84ee099dafa4fef365e0e">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-5fdfea3c7ab844de8efb70060ee76e97.xml#id-5fdfea3c7ab844de8efb70060ee76e97"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-914d5aa9b6c0418187be8b5b50a8c644.xml#id-914d5aa9b6c0418187be8b5b50a8c644"/>
+</archimate:TriggeringRelationship>
