@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Почта и пароль валидные"
+    id="id-e31a8fe8a9bf4d4682363c40e811119f">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-e670ff29b28e4c009333c5f1872e600f.xml#id-e670ff29b28e4c009333c5f1872e600f"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-1f24904998b44ebe9cec069d1f204529.xml#id-1f24904998b44ebe9cec069d1f204529"/>
+</archimate:TriggeringRelationship>

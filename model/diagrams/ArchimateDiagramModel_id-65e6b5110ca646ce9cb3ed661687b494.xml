@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BP0. Формирование заявки Сотрудником"
+    name="BP0. Основной процесс. Жизненный цикл заявки"
     id="id-65e6b5110ca646ce9cb3ed661687b494">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -475,6 +475,17 @@
         y="540"
         width="126"
         height="64"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-2c92dfdba760475189e8ed1ef8137b36">
+      <bounds
+          y="36"
+          width="120"
+          height="25"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-22ece0e070b7401ebe3e1b5d0de06fd6.xml#id-22ece0e070b7401ebe3e1b5d0de06fd6"/>
+    </children>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-b5e138da96224b75a3bd62ea6309f615.xml#id-b5e138da96224b75a3bd62ea6309f615"/>
