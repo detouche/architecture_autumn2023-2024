@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Курс заведен в системе"
+    id="id-1bd024943aed4b8db44113c8add2096b">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-f390d341a80f4009bef11a59cc79e859.xml#id-f390d341a80f4009bef11a59cc79e859"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-2b521154bd7b4ade8d4c5e724c830969.xml#id-2b521154bd7b4ade8d4c5e724c830969"/>
+</archimate:TriggeringRelationship>
