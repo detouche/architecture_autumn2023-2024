@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Отклонить"
+    id="id-47e597c2574b4a32a2b4df0e2904d038">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-886e7e961f0541d49cd83f3acaaeead0.xml#id-886e7e961f0541d49cd83f3acaaeead0"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-dc815b3177cd49d6887b33541d529a25.xml#id-dc815b3177cd49d6887b33541d529a25"/>
+</archimate:TriggeringRelationship>

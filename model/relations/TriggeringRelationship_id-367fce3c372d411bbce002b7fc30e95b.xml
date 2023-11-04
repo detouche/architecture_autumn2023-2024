@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Записать на курс"
+    id="id-367fce3c372d411bbce002b7fc30e95b">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-e87645a6ca6e4553945dce5682cbe9ca.xml#id-e87645a6ca6e4553945dce5682cbe9ca"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_id-ac6f71af8b7349178b92b9d2e21852e6.xml#id-ac6f71af8b7349178b92b9d2e21852e6"/>
+</archimate:TriggeringRelationship>

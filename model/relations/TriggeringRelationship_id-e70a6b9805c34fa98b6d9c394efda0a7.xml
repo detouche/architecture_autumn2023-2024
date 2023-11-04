@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Одобрить"
+    id="id-e70a6b9805c34fa98b6d9c394efda0a7">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-886e7e961f0541d49cd83f3acaaeead0.xml#id-886e7e961f0541d49cd83f3acaaeead0"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_id-160f0a1dfc0b4648a6eee9883b078624.xml#id-160f0a1dfc0b4648a6eee9883b078624"/>
+</archimate:TriggeringRelationship>

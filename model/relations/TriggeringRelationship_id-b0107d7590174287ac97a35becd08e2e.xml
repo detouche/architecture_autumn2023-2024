@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Отменить запись"
+    id="id-b0107d7590174287ac97a35becd08e2e">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-e87645a6ca6e4553945dce5682cbe9ca.xml#id-e87645a6ca6e4553945dce5682cbe9ca"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-a0eb936b3f274087becc2a13b6d97260.xml#id-a0eb936b3f274087becc2a13b6d97260"/>
+</archimate:TriggeringRelationship>
